@@ -45,7 +45,7 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushi305&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi305b&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi305&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
