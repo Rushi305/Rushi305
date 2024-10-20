@@ -3,7 +3,7 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1C4WNw3hXsC7PE5BzcBq3iWBZQzN1w98P/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16z6ahWQm4yFZ9KAoyRXee3hNuMbgc0VS/view?usp=sharing)
 
 
 ## About Me
