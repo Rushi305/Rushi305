@@ -54,7 +54,7 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 
 
 ## 📫 Let's Connect!
-- **Email:** [m.atharshoyeb15@gmail.com](mailto:m.rushipawar0305@gmail.com)
-- **LinkedIn:** [atharshoyeb]([https://www.linkedin.com/in/](https://www.linkedin.com/in/rushikesh-pawar-697a87234/))
-- **GitHub:** [Atharshoyeb](https://github.com/Rushi305)
+- **Email:** [m.rushipawar0305@gmail.com](mailto:m.rushipawar0305@gmail.com)
+- **LinkedIn:** [Rushikesh Pawar]([https://www.linkedin.com/in/](https://www.linkedin.com/in/rushikesh-pawar-697a87234/))
+- **GitHub:** [Rushi305](https://github.com/Rushi305)
 
