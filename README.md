@@ -2,7 +2,7 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16z6ahWQm4yFZ9KAoyRXee3hNuMbgc0VS/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jK9fhn71Hj0CDWTcVpG-uv5mO7aLwXZj/view?usp=sharing)
 
 ## About Me  
 I'm a passionate Full Stack Developer and Data Analyst with experience in building scalable web applications and automating processes for efficiency. I have hands-on expertise in Java, Python, and React.js, along with strong problem-solving skills and a foundation in algorithms, databases, and data visualization.
