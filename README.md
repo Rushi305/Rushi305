@@ -2,10 +2,10 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jK9fhn71Hj0CDWTcVpG-uv5mO7aLwXZj/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1GpBYPK3luMc6PqwwCNABwJ4gCmxDDTnC/view?usp=sharing)
 
 ## About Me  
-I'm a passionate Full Stack Developer and Data Analyst with experience in building scalable web applications and automating processes for efficiency. I have hands-on expertise in Java, Python, and React.js, along with strong problem-solving skills and a foundation in algorithms, databases, and data visualization.
+I'm a passionate Full Stack Developer and Data Analyst experienced in building scalable web applications and automating complex workflows. With a solid foundation in Java, Python, and React.js, I create impactful software solutions backed by data-driven decisions. I’m driven by continuous learning and delivering measurable outcomes.
 
 ## 🛠️ Languages and Tools
 
@@ -46,26 +46,31 @@ I'm a passionate Full Stack Developer and Data Analyst with experience in buildi
 ## 💼 Experience  
 
 - **Software Developer Intern | Automotive Research Association of India (ARAI)**  
-  - Led the development of the "Automation of Flow Calibration Rig" project, reducing manual work by 40%.  
-  - Integrated National Instruments Data Acquisition (DAQ) modules with Python for improved real-time data collection accuracy by 25%.  
-  - Enhanced system performance by optimizing Python scripts for data collection and calibration.
+  - Developed the "Automation of Flow Calibration Rig" project, reducing manual workload by 40%.  
+  - Integrated National Instruments DAQ modules with Python for real-time and accurate data acquisition.  
+  - Optimized Python scripts for faster calibration cycles and cleaner logs.
+
+- **Software Developer Intern | Mega Engineering**  
+  - Built the Estimation Module leveraging historical project data to auto-fetch cost rates.  
+  - Integrated Zoho Creator and Zoho Analytics for seamless data management and reporting.  
+  - Helped forecast budget estimates for over 100+ engineering projects.
 
 - **Data Analyst Intern | Softwave Infobyte**  
-  - Analyzed large datasets using Python, Pandas, and Matplotlib to provide actionable insights.  
-  - Developed dashboards to visualize key metrics, leading to a 15% improvement in decision-making accuracy.
+  - Analyzed business datasets using Python, Pandas, and Matplotlib.  
+  - Delivered dashboards that improved stakeholder decisions by 15%.
 
 ## 🚀 Projects  
 
 - **Training and Placement Cell (BVCOE)**  
-  - Developed a comprehensive website using Next.js and Nest.js for BVCOE’s Training and Placement Cell to facilitate placements, recruiter interactions, and application tracking.
-
-- **Sportunity**  
-  - Built a LinkedIn-like platform for athletes using Java, Spring Boot, and React.js.  
-  - Enabled features such as user profiles, job listings, and secure data handling with role-based access.
+  - Built a web portal using Next.js and Nest.js to manage placements, recruiters, and applicant tracking.
 
 - **Trip-Track**  
-  - Created a travel optimization platform with real-time price comparisons.  
-  - Used Java, Spring Boot, and React.js to manage backend, frontend, and data processing for trip budgeting.
+  - Built a smart travel planner that compares live transportation, stay, and budget options.  
+  - Tech Stack: Java, Spring Boot, React, REST APIs.
+
+- **Estimation Module (Mega Engineering)**  
+  - Developed a robust backend to identify unique items and generate rate reports from 100+ completed projects.  
+  - Used Python and Zoho Creator for real-time entry and analysis, reducing human error.
 
 ## 📜 Certifications & Achievements  
 
@@ -85,7 +90,7 @@ I'm a passionate Full Stack Developer and Data Analyst with experience in buildi
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rushi305&theme=radical)  
 
-## 📫 Let's Connect!  
+## 📨 Let's Connect!  
 
 - **Email:** [m.rushipawar0305@gmail.com](mailto:m.rushipawar0305@gmail.com)  
 - **LinkedIn:** [Rushikesh Pawar](https://www.linkedin.com/in/rushikesh-pawar-697a87234/)  
@@ -93,3 +98,4 @@ I'm a passionate Full Stack Developer and Data Analyst with experience in buildi
 - **Codeforces:** [Rushi03](https://codeforces.com/profile/Rushi03)  
 - **LeetCode:** [Rushi03](https://leetcode.com/u/Rushi03/)  
 - **GeeksforGeeks:** [Rushikesh Pawar](https://www.geeksforgeeks.org/user/rushipawar0305/)
+
